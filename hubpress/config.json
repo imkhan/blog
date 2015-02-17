@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "imkhan",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"imkhan","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"imran@blogging","description":"I share whatever I know and want to share here.","url":"http://imkhan.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://imkhan.github.io/blog/themes/Casper"}}
